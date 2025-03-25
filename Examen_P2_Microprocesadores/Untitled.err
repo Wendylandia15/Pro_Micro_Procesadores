@@ -1,0 +1,3 @@
+Warning[205] C:\USERS\SERVI\ONEDRIVE\DOCUMENTS\UNTITLED.ASM 1 : Found directive in column 1. (LIST)
+Message[302] C:\USERS\SERVI\ONEDRIVE\DOCUMENTS\UNTITLED.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\ONEDRIVE\DOCUMENTS\UNTITLED.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
